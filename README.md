@@ -1,4 +1,4 @@
-<h1 align="center">🚀 LIGHTARK</h1>
+<h1 align="center">Naman Narendra Choudhary</h1>
 <p align="center">
   <strong>Fingineur — Finance × Engineering × Entrepreneurship</strong>
 </p>
